@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/P-G8911/P-G8911/blob/main/images/Hi.gif" alt="hi" width="37px" height="37"/>, I'm Prafful Gupta</h1>
 
-<br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-g8911&label=Profile%20views&color=0e75b6&style=flat" alt="p-g8911" /> </p>
+<br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-g8911&label=Profile%20views&color=0e75b6&style=flat" alt="P-G8911" /> </p>
 
 <p align="left">
 </p>
