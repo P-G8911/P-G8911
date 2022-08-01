@@ -10,7 +10,7 @@
 <br/> <br/> Hi, I'm Prafful Gupta, a passionate student currently pursuing Master of Computer Applications from National Institute of Technology Karnataka, Surathkal. Enthusiastic in web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.
 
 <p align="center">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.” </i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Do one thing every day that scares you." </i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
 <br/> <br/> <br/>
