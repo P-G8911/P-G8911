@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/P-G8911/P-G8911/blob/main/images/Hi.gif" alt="hi"/>, I'm Prafful Gupta</h1>
+<h1 align="center">Hi <img src="https://github.com/P-G8911/P-G8911/blob/main/images/Hi.gif" alt="hi" width="30px" height="38"/>, I'm Prafful Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-g8911&label=Profile%20views&color=0e75b6&style=flat" alt="p-g8911" /> </p>
