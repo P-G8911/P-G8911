@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-<img align="right" height="410px" width= "410px" alt="GIF" src="https://github.com/P-G8911/P-G8911/blob/main/images/computer%20working.gif" />
+<img align="right" height="410px" width= "410px" alt="GIF" src="https://github.com/P-G8911/P-G8911/blob/main/images/cw.gif" />
 
 <br/> <br/> Hi, I'm Prafful Gupta, a passionate student currently pursuing Master of Computer Applications from National Institute of Technology Karnataka, Surathkal. Enthusiastic in web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.
 
