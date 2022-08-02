@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./images/Hi.gif" alt="hi" width="37px" height="37"/>, I'm Prafful Gupta</h1>
+<h1 align="center">Hi <img src="https://github.com/P-G8911/P-G8911/blob/main/images/hey.gif" alt="hi" width="37px" height="37px"/>, I'm Prafful Gupta</h1>
 
 <br/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=P-G8911&label=Profile%20views&color=0e75b6&style=flat" alt="P-G8911" /> </p>
 
